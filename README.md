@@ -1,4 +1,4 @@
-## Hi I'm Ceyda 👋
+## Hi I'm Ceyda Baykal Acikgoz👋
 
 <!--
 **ceydaAcikgoz/ceydaAcikgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
