@@ -6,8 +6,6 @@
 
 👨‍💻 Professional Skills
 <br />
-<br />
-
 Programming Languages: JavaScript / TypeScript / Python / C# <br />
 FrontEnd: HTML5 / CSS / Angular <br />
 BackEnd: .NET Core / .NET Core MVC /.NET Core Web API / ASP .NET  <br />
