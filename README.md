@@ -5,6 +5,8 @@
 
 
 👨‍💻 Professional Skills
+<br />
+<br />
 
 Programming Languages: JavaScript / TypeScript / Python / C#
 FrontEnd: HTML5 / CSS / Angular
