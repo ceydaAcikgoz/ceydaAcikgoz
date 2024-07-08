@@ -8,11 +8,11 @@
 <br />
 <br />
 
-Programming Languages: JavaScript / TypeScript / Python / C#
-FrontEnd: HTML5 / CSS / Angular
-BackEnd: .NET Core / .NET Core MVC /.NET Core Web API / ASP .NET 
-DevOps:  Docker / Git&Github
-Database: Relational Database (SQL / MsSQL / PostgreSQL / MySQL) / MongoDB
+Programming Languages: JavaScript / TypeScript / Python / C# <br />
+FrontEnd: HTML5 / CSS / Angular <br />
+BackEnd: .NET Core / .NET Core MVC /.NET Core Web API / ASP .NET  <br />
+DevOps:  Docker / Git&Github <br />
+Database: Relational Database (SQL / MsSQL / PostgreSQL / MySQL) / MongoDB <br />
 
 📍 I’m working at Innova as a Software Development Specialist
 
