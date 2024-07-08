@@ -1,5 +1,5 @@
 
-👋 Hi I'm Ceyda Baykal Acikgoz👋
+Hi I'm Ceyda Baykal Acikgoz👋
 
 🌱 I have a deep passion for software development. I am a Computer Engineer determined to produce practical solutions that make  life easier.
 
