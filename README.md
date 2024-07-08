@@ -12,7 +12,7 @@ BackEnd: .NET Core / .NET Core MVC /.NET Core Web API / ASP .NET  <br />
 DevOps:  Docker / Git&Github <br />
 Database: Relational Database (SQL / MsSQL / PostgreSQL / MySQL) / MongoDB <br />
 
-📍 I’m working at Innova as a Software Development Specialist
+📍 I’m working at Innova as a Senior Software Specialist
 
 📫 You can reach me on ceydbaykal@gmail.com || https://www.linkedin.com/in/ceydabaykalacikgoz/
 
